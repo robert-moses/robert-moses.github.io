@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/robert_moses
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://robertmoses.me
+  * I am robert_moses (https://keybase.io/robert_moses) on keybase.
+  * I have a public key ASBRMntdeSqkq_uZqfofCKczSAtDJmhU9BvaRxGuPsFcPAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012069a9f4350fd3a76c71abb1fb1121594ceedeb51d74a55fffd32505ca910161e20a",
+      "host": "keybase.io",
+      "kid": "012051327b5d792aa4abfb99a9fa1f08a733480b43266854f41bda4711ae3ec15c3c0a",
+      "uid": "c02e4faf1ff08147b24525e0e8d6cf19",
+      "username": "robert_moses"
+    },
+    "merkle_root": {
+      "ctime": 1608159821,
+      "hash": "b1d49ad6b8b9208ec27ec10019ff77447f0d3b7c8c2a913fc07ba872ce1fa834fc763045d177c9d4e3d7d4288d098974ee170bddc15f62394128a0db3f62010d",
+      "hash_meta": "f07596efdc0c27d135a34aa2eecd01b96dcc3bc5f81b4eb82c161ca66838a0c1",
+      "seqno": 18422679
+    },
+    "service": {
+      "entropy": "qNBJTA3nVehL+GUdRGEM6rZ0",
+      "hostname": "robertmoses.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1608159851,
+  "expire_in": 504576000,
+  "prev": "b3c2d58071d95461c85e65ff1ab99368419675bef2635e3f864114b8746e9daf",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUTJ7XXkqpKv7man6HwinM0gLQyZoVPQb2kcRrj7BXDwKp3BheWxvYWTESpcCIcQgs8LVgHHZVGHIXmX/GrmTaEGWdb7yY14/hkEUuHRuna/EIHg+arq9/K6aY8UAcBliLYIBmoEGggXyPPuCfoUzN+rsAgHCo3NpZ8RAt9xgdesG8OoxPoiKLcmEsiKhnNWExJH4tQaFgOWn61s8l94cVMO84cVtmgh9UFeQ5HojH14gJjZZLGYOWB11D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIItCBeLAHhjGn0dlfhOHCuYnHa3ZbpYGsDucboMz0OcWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/robert_moses
+
+==================================================================
